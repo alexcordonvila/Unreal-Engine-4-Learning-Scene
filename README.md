@@ -1,6 +1,7 @@
 ![UnrealEngine](https://img.shields.io/badge/Unreal%20Engine-Learning-red)
 # Unreal Engine 4 Learning Scene
-
+# Link to the gameplay video: 
+[![Learning Unreal Engine](https://i9.ytimg.com/vi/OIYm6vissoA/mq2.jpg?sqp=CJehzfQF&rs=AOn4CLBVxJjVfB2iHkszMhr2oR_Dk11P6Q)](https://www.youtube.com/watch?v=OIYm6vissoA "Learning Unreal Engine ")
 ## Custom Blueprints:
   - Health pickup bp and life increasing
   - Armorpickup bp and armor increasing 
@@ -24,7 +25,13 @@
   - Enemy interface
  ## PostProcess Materials:
   - Heat Haze for the fire and lava zones
-  
+  ## Inputs:
+  - E to open gates
+  - R to reaload
+  - Space to jump
+  - WASD to move player
+  - C to slow motion effect
+  - SHIFT to crouch down
 ## Style and artwork
   - We've used the modular Sci-Fi Kitbash Level Builder: https://www.unrealengine.com/marketplace/en-US/product/scifi-kitbash-level-builder
   - We've used the original Doom's sound FX, GDC 2018 & 2019 audio packs and some Infinity Blade Effects (https://www.youtube.com/watch?v=VMbPHuU1KRs)
